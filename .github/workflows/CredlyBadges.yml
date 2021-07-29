@@ -10,5 +10,5 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Badges - Readme
-        uses: pemtajo/badge-readme@master
-          CREDLY_USER: alan.ocs
+        uses: alan.ocs/badge-readme@master
+          CREDLY_USER: <username_credly> # optional, but default will use the same from github
