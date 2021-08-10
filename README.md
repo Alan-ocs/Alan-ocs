@@ -23,7 +23,6 @@
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Ubuntu" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg">
   <img align="center" alt="PowerShell" height="30" width="40" src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_64.svg">
-  <img align="center" alt="Power BI" height="30" width="40" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg">
 </div>
   
   ##
