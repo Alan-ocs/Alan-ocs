@@ -2,13 +2,13 @@
 
 - 🔭 I'm Alan and I've been working with IT Infrastructure and end-user support since 2005. I have experience with IT services management and support, IT Infrastructure Management, Networking, servers administration, and resource monitoring.
 
-  <div style="display: inline_block"><br>
-  <img align="center" alt="MCP" height="30" width="40" src="https://iconape.com/wp-content/files/gl/352751/svg/352751.svg">
-  <img align="center" alt="MCTS" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9b/MCTS_logo.png">
-  <img align="center" alt="AZ900" height="30" width="40" src="https://ericsonf.com.br/wp-content/uploads/2020/01/AZ-900.png">
-</div>
-  
 - ☁️ I'm currently studying to be specialized in Cloud Computing providers (Azure, AWS, GCP, OCI) and Infrastructure as a Code (Ansible/Terraform).
+
+  <div style="display: inline_block"><br>
+  <img align="center" alt="MCP" height="60" src="https://iconape.com/wp-content/files/gl/352751/svg/352751.svg">
+  <img align="center" alt="MCTS" height="90" src="https://upload.wikimedia.org/wikipedia/commons/9/9b/MCTS_logo.png">
+  <img align="center" alt="AZ900" height="70" src="https://ericsonf.com.br/wp-content/uploads/2020/01/AZ-900.png">
+</div>
 
   ##
 
