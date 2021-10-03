@@ -1,7 +1,7 @@
 ### Hi there!
 
 - 🔭 I’m currently working with IT Infrastructure
-- ☁️ I’m currently learning Cloud (Azure, AWS, GCP, OCI)
+- ☁️ I’m currently learning Cloud (Azure, AWS, GCP, OCI) and IaC (Ansible/Terraform)
 
   ##
 
