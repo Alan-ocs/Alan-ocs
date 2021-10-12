@@ -9,6 +9,7 @@
   <img align="center" alt="MCP" height="60" src="https://iconape.com/wp-content/files/gl/352751/svg/352751.svg">
   <img align="center" alt="MCTS" height="90" src="https://upload.wikimedia.org/wikipedia/commons/9/9b/MCTS_logo.png">
   <img align="center" alt="AZ900" height="90" src="https://ericsonf.com.br/wp-content/uploads/2020/01/AZ-900.png">
+  <img align="center" alt="OCIF" height="90" src="https://brm-workforce.oracle.com/pdf/certview/images/50_Oracle_Cloud_Infrastructure.png">
 </div>
 
   ##
