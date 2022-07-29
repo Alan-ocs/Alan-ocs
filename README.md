@@ -1,8 +1,8 @@
 ### Hi there!
 
-- 🔭 I'm Alan and I've been working with IT Infrastructure and end-user support since 2005. I have experience with IT services management and support, IT Infrastructure Management, Networking, servers administration, and resource monitoring.
+- 🔭 I've been working with IT Infrastructure and end-user support since 2005. I have experience with IT services management and support, IT Infrastructure Management, Networking, servers administration, and resource monitoring.
 
-- ☁️ I'm currently studying to be specialized in Cloud Computing providers (Azure, AWS, GCP, OCI) and Infrastructure as a Code (Ansible/Terraform).
+- ☁️ I'm currently studying to be specialized in DevOps, Cloud Computing and Infrastructure as a Code.
 
   <div style="display: inline_block"><br>
   <a href="https://github.com/Alan-ocs">
@@ -11,7 +11,9 @@
   <img align="center" alt="AZ900" height="90" src="https://ericsonf.com.br/wp-content/uploads/2020/01/AZ-900.png">
   <img align="center" alt="OCIF" height="90" src="https://brm-workforce.oracle.com/pdf/certview/images/50_Oracle_Cloud_Infrastructure.png">
   <img align="center" alt="OCIA" height="90" src="https://images.credly.com/size/340x340/images/9819ade4-8c28-4f2e-8c19-eac82857b71f/1072-21_Oracle_Cloud_Infrastructure_Architect.png">
-  <img align="center" alt="ISO27001" height="90" src="https://www.exin.com/sites/default/files/2018-11/EXIN_Badge_ModuleFoundation_InformationSM_ISO.png">
+  <img align="center" alt="ISO27001" height="90" src="https://www.exin.com/app/uploads/2022/05/EXIN_Badge_ModuleFoundation_InformationSM_ISO-1024x1024.png">
+  <img align="center" alt="PDPF" height="90" src="https://antebellum.com.br/wp-content/uploads/2022/02/EXIN_Badge_ModuleFoundation_PDP.png">
+  <img align="center" alt="PDPP" height="90" src="https://antebellum.com.br/wp-content/uploads/2022/02/EXIN_Badge_ModulePractitioner_PDP.png">
   <img align="center" alt="LL" height="90" src="https://images.credly.com/images/f5cf37e4-6ebd-4067-96a9-b26d04f51ff7/CertiProf-Badge-LLL.png">
 </div>
 
