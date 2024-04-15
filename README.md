@@ -1,8 +1,10 @@
-### Hi there!
+### Welcome to my GitHub Profile!
 
-- 🔭 I've been working with IT Infrastructure and end-user support since 2005. I have experience with IT services management and support, IT Infrastructure Management, Networking, servers administration, and resource monitoring.
+🔭 With over 15 years of experience in IT infrastructure and end-user support, I've honed my skills in IT services management, infrastructure management, networking, server administration, and resource monitoring.
 
-- ☁️ I'm currently studying to be specialized in DevOps, Cloud Computing and Infrastructure as a Code.
+☁️ Currently, I'm deeply engaged in expanding my expertise to specialize in DevOps, Cloud Computing, and Infrastructure as Code. My journey into these cutting-edge technologies is driven by a passion for innovation and a commitment to staying at the forefront of industry trends.
+
+Feel free to reach out, collaborate, or explore projects together!
 
   <div style="display: inline_block"><br>
   <a href="https://github.com/Alan-ocs">
