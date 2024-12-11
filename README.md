@@ -1,6 +1,6 @@
 ### Welcome to my GitHub Profile!
 
-🔭 With over 15 years of experience in IT infrastructure and end-user support, I've honed my skills in IT services management, infrastructure management, networking, server administration, and resource monitoring.
+🔭 With over 12 years of experience in IT infrastructure and end-user support, I've honed my skills in IT services management, infrastructure management, networking, server administration, and resource monitoring.
 
 ☁️ Currently, I'm deeply engaged in expanding my expertise to specialize in DevOps, Cloud Computing, and Infrastructure as Code. My journey into these cutting-edge technologies is driven by a passion for innovation and a commitment to staying at the forefront of industry trends.
 
