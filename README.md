@@ -43,4 +43,4 @@ Feel free to reach out, collaborate, or explore projects together!
   <div> 
   <a href = "mailto:alan.ocs@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/alanocs/?locale=en_US" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://rxresu.me/aocs/alan-silva-us-en"><img height="30" src="https://rxresu.me/logo/dark.svg"></a> 
+  <a href="https://rxresu.me/aocs/alan-silva-us-en"><img height="45" src="https://rxresu.me/logo/dark.svg"></a> 
