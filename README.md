@@ -13,10 +13,7 @@ Feel free to reach out, collaborate, or explore projects together!
   <img align="center" alt="AZ900" height="90" src="https://ericsonf.com.br/wp-content/uploads/2020/01/AZ-900.png">
   <img align="center" alt="OCIF" height="90" src="https://brm-workforce.oracle.com/pdf/certview/images/50_Oracle_Cloud_Infrastructure.png">
   <img align="center" alt="OCIA" height="90" src="https://images.credly.com/size/340x340/images/9819ade4-8c28-4f2e-8c19-eac82857b71f/1072-21_Oracle_Cloud_Infrastructure_Architect.png">
-  <img align="center" alt="ISO27001" height="90" src="https://www.exin.com/app/uploads/2022/05/EXIN_Badge_ModuleFoundation_InformationSM_ISO-1024x1024.png">
-  <img align="center" alt="PDPF" height="90" src="https://antebellum.com.br/wp-content/uploads/2022/02/EXIN_Badge_ModuleFoundation_PDP.png">
-  <img align="center" alt="PDPP" height="90" src="https://antebellum.com.br/wp-content/uploads/2022/02/EXIN_Badge_ModulePractitioner_PDP.png">
-  <img align="center" alt="LL" height="90" src="https://images.credly.com/images/f5cf37e4-6ebd-4067-96a9-b26d04f51ff7/CertiProf-Badge-LLL.png">
+  <img align="center" alt="LL" height="90" src="https://ucarecdn.com/6607ec8a-2660-4362-95af-a198b06fc121/-/format/auto/-/preview/3000x3000/-/quality/lighter/CertiProf-Badge-LLL.png">
 </div>
 
   ##
