@@ -10,7 +10,7 @@ Feel free to reach out, collaborate, or explore projects together!
   <a href="https://github.com/Alan-ocs">
   <img align="center" alt="MCP" height="60" src="https://iconape.com/wp-content/files/gl/352751/svg/352751.svg">
   <img align="center" alt="MCTS" height="90" src="https://upload.wikimedia.org/wikipedia/commons/9/9b/MCTS_logo.png">
-  <img align="center" alt="AZ900" height="90" src="https://ericsonf.com.br/wp-content/uploads/2020/01/AZ-900.png">
+  <img align="center" alt="AZ900" height="90" src="https://k21academy.com/wp-content/uploads/2020/02/Azure.Fundamental_Icon.png">
   <img align="center" alt="OCIF" height="90" src="https://brm-workforce.oracle.com/pdf/certview/images/50_Oracle_Cloud_Infrastructure.png">
   <img align="center" alt="OCIA" height="90" src="https://images.credly.com/size/340x340/images/9819ade4-8c28-4f2e-8c19-eac82857b71f/1072-21_Oracle_Cloud_Infrastructure_Architect.png">
   <img align="center" alt="LL" height="90" src="https://ucarecdn.com/6607ec8a-2660-4362-95af-a198b06fc121/-/format/auto/-/preview/3000x3000/-/quality/lighter/CertiProf-Badge-LLL.png">
